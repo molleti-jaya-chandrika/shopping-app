@@ -1,0 +1,38 @@
+================================
+       LINUX SERVER REPORT
+================================
+
+Date and Time:
+Wed Nov 18 14:21:14 UTC 2026
+
+Hostname:
+ip-172-31-42-252.ec2.internal
+
+Operating System:
+PRETTY_NAME="Amazon Linux 2023.12.20261117"
+
+Server Uptime:
+ 14:21:14 up  3:34,  1 user,  load average: 0.00, 0.00, 0.00
+
+CPU Cores:
+2
+
+Memory Information:
+               total        used        free      shared  buff/cache   available
+Mem:           913Mi       157Mi       495Mi       0.0Ki       260Mi       624Mi
+Swap:             0B          0B          0B
+
+Disk Information:
+Filesystem        Size  Used Avail Use% Mounted on
+devtmpfs          4.0M     0  4.0M   0% /dev
+tmpfs             457M     0  457M   0% /dev/shm
+tmpfs             183M  452K  183M   1% /run
+efivarfs          128K  2.7K  121K   3% /sys/firmware/efi/efivars
+/dev/nvme0n1p1    8.0G  1.6G  6.4G  20% /
+tmpfs             457M     0  457M   0% /tmp
+/dev/nvme0n1p128   10M  1.3M  8.7M  13% /boot/efi
+tmpfs              92M     0   92M   0% /run/user/1000
+
+================================
+        REPORT COMPLETED
+================================
